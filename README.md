@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**abenaitwe256/abenaitwe256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abenaitwe256/abenaitwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
